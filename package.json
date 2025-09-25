@@ -1,7 +1,5 @@
-﻿{
+{
   "name": "gptmaker-mcp",
   "private": true,
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {}
+  "version": "1.0.0"
 }
